@@ -81,12 +81,10 @@
     <public type="drawable" name="ic_btn_actionmenu_share_pressed" id="0x7f02004e" />
     <public type="drawable" name="ic_btn_actionmenu_share_selected" id="0x7f02004f" />
     <public type="drawable" name="ic_camera_sym_gps" id="0x7f020050" />
-    <public type="drawable" name="default_background" id="0x7f020051" />
     <public type="drawable" name="ic_error_mms_video_overlay" id="0x7f020052" />
     <public type="drawable" name="ic_gallery_empty2" id="0x7f020053" />
     <public type="drawable" name="ic_gallery_video_overlay" id="0x7f020054" />
-    <public type="drawable" name="ic_launcher_camera" id="0x7f020055" />
-    <public type="drawable" name="ic_launcher_gallery" id="0x7f020056" />
+    <public type="drawable" name="ic_launcher" id="0x7f020056" />
     <public type="drawable" name="ic_menu_3d_globe" id="0x7f020057" />
     <public type="drawable" name="ic_menu_attach" id="0x7f020058" />
     <public type="drawable" name="ic_menu_camera_play" id="0x7f020059" />

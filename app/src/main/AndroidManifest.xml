@@ -20,7 +20,7 @@
         android:name="android.permission.WRITE_SETTINGS" />
     <application
         android:label="@string/camera_label"
-        android:icon="@drawable/ic_launcher_camera"
+        android:icon="@drawable/ic_launcher"
         android:taskAffinity="">
         <service
             android:name="UploadService"
@@ -35,7 +35,7 @@
         <activity
             android:theme="@android:style/Theme.Holo"
             android:label="@string/gallery_picker_label"
-            android:icon="@drawable/ic_launcher_gallery"
+            android:icon="@drawable/ic_launcher"
             android:name="GalleryPicker"
             android:taskAffinity="android.task.pictures"
             android:clearTaskOnLaunch="true"
@@ -52,7 +52,7 @@
         <activity
             android:theme="@android:style/Theme.Black"
             android:label="@string/gallery_label"
-            android:icon="@drawable/ic_launcher_gallery"
+            android:icon="@drawable/ic_launcher"
             android:name="ImageGallery"
             android:configChanges="keyboardHidden|orientation">
             <intent-filter>
@@ -229,7 +229,7 @@
         </activity>
         <activity
             android:label="@string/camera_setas_wallpaper"
-            android:icon="@drawable/ic_launcher_gallery"
+            android:icon="@drawable/ic_launcher"
             android:name=".Wallpaper">
             <intent-filter>
                 <action
@@ -242,7 +242,7 @@
         </activity>
         <activity
             android:label="@string/camera_pick_wallpaper"
-            android:icon="@drawable/ic_launcher_gallery"
+            android:icon="@drawable/ic_launcher"
             android:name=".PickWallpaper">
             <intent-filter>
                 <action
